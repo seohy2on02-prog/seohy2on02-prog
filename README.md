@@ -1,11 +1,10 @@
 ## Hi there 👋 강서현입니다.
 K-pop 이머시브 콘텐츠 기획자 과정 1기 광주
 - 주전공:화장품 부전공 : 미용
-- 메이크업 ,네일,조향사3급 자격증 보유 
-- 올리브영 퇴사 후 새로운 도전을 해보고자 지원함
+- 메이크업 ,네일,조향사3급 자격증 보유 / 메이크업대회 국회의원상 , 대상등 
+- 올리브영 퇴사 후 새로운 분야에 도전을 해보고자 지원함
 - MBTI  : ISTP or ISTJ
-- 관심분야 : (엔터) 팬경험 ,팬마케팅 or 콘텐츠 팀
-- 오늘 배운 단어 : 커밋
+- 관심분야 : 팬마케팅 , 아티스트콘텐츠등 
 <!-- 
 **seohy2on02-prog/seohy2on02-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
