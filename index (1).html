@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>강서현 소개</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#faf7f5;--card:#fff;--text:#1f1b1d;--muted:#6b6266;--accent:#d14d72;--soft:#fbe7ee;--line:#eee3e6}
+@media (prefers-color-scheme:dark){:root{--bg:#161214;--card:#1f1a1c;--text:#f3eef0;--muted:#a99da2;--accent:#f07a9b;--soft:#3a2129;--line:#2d2427}}
+*{box-sizing:border-box;margin:0}
+body{background:var(--bg);color:var(--text);font-family:"Noto Sans KR",system-ui,sans-serif;line-height:1.6;padding:48px 16px}
+main{max-width:720px;margin:0 auto;display:grid;gap:20px}
+header{text-align:center;padding:24px 0}
+.badge{display:inline-block;background:var(--soft);color:var(--accent);font-size:13px;font-weight:500;padding:4px 12px;border-radius:999px}
+h1{font-size:clamp(28px,6vw,40px);margin:14px 0 6px}
+header p{color:var(--muted)}
+section{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:24px}
+h2{font-size:15px;color:var(--accent);margin-bottom:14px;letter-spacing:.02em}
+dl{display:grid;grid-template-columns:110px 1fr;gap:10px 16px}
+dt{color:var(--muted);font-size:14px}
+dd{font-weight:500}
+.tags{display:flex;flex-wrap:wrap;gap:8px}
+.tags span{border:1px solid var(--line);padding:6px 12px;border-radius:999px;font-size:14px}
+.story{font-size:17px}
+.word{display:flex;align-items:baseline;gap:12px}
+.word strong{font-size:24px;color:var(--accent)}
+.word small{color:var(--muted)}
+@media (max-width:480px){dl{grid-template-columns:1fr}dt{margin-top:6px}}
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <span class="badge">K-pop 이머시브 콘텐츠 기획자 과정 1기 · 광주</span>
+    <h1>안녕하세요, 강서현입니다 👋</h1>
+    <p>뷰티 현장 경험을 바탕으로 팬 경험을 기획하고 싶은 사람</p>
+  </header>
+
+  <section>
+    <h2>NEW CHALLENGE</h2>
+    <p class="story">올리브영에서 일한 뒤, 새로운 도전을 위해 엔터테인먼트 콘텐츠 기획에 지원했습니다.</p>
+  </section>
+
+  <section>
+    <h2>PROFILE</h2>
+    <dl>
+      <dt>주전공</dt><dd>화장품</dd>
+      <dt>부전공</dt><dd>미용</dd>
+      <dt>MBTI</dt><dd>ISTP or ISTJ</dd>
+      <dt>관심 분야</dt><dd>(엔터) 팬 경험 · 팬 마케팅 · 콘텐츠 팀</dd>
+    </dl>
+  </section>
+
+  <section>
+    <h2>CERTIFICATES</h2>
+    <div class="tags"><span>메이크업</span><span>네일</span><span>조향사 3급</span></div>
+  </section>
+
+  <section>
+    <h2>TODAY I LEARNED</h2>
+    <div class="word"><strong>커밋 (commit)</strong><small>변경 내용을 저장소에 기록하는 일</small></div>
+  </section>
+</main>
+</body>
+</html>
